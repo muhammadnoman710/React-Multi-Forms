@@ -1,0 +1,20 @@
+div.ui.raised.very.padded.text.container.segment{
+    align-items: center;
+    border-color: red;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin:0%;
+    min-width:950px;
+    height:600px;
+    border-radius: 15px;
+    padding: 0px;
+}
+div.ui.raised.very.padded.text.container.segment.info {
+    
+    position: absolute;
+    top:15px;
+    left: 15px;
+min-width: 90px;
+width: 280px;
+height: 565px;
+}
