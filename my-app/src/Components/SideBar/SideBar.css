@@ -1,6 +1,5 @@
 div.ui.raised.very.padded.text.container.segment{
-    position : absolute;
-    top : 30px;
+    padding-top: 100px;
     align-items: center;
     border-color: red;
     margin-left: 0px;
@@ -19,4 +18,9 @@ div.ui.raised.very.padded.text.container.segment.info {
 min-width: 90px;
 width: 280px;
 height: 565px;
+}
+h2.ui.header {
+   font-size: xx-large;
+   margin-top: 30px;
+   width: 1000px;
 }
