@@ -1,4 +1,6 @@
 div.ui.raised.very.padded.text.container.segment{
+    position : absolute;
+    top : 30px;
     align-items: center;
     border-color: red;
     margin-left: 0px;
